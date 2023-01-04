@@ -20,4 +20,3 @@ test('should change phone number', () => {
 
   expect(result).toBe(expected);
 });
-

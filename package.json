@@ -1,5 +1,5 @@
 {
-  "name": "phonenumbers",
+  "name": "nicknames",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -9,23 +9,26 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Yulia-Sm1999/ajs-homeworks-regex-phonenumbers.git"
+    "url": "git+https://github.com/Yulia-Sm1999/ajs-homeworks-regex-nicknames.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Yulia-Sm1999/ajs-homeworks-regex-phonenumbers/issues"
+    "url": "https://github.com/Yulia-Sm1999/ajs-homeworks-regex-nicknames/issues"
   },
-  "homepage": "https://github.com/Yulia-Sm1999/ajs-homeworks-regex-phonenumbers#readme",
+  "homepage": "https://github.com/Yulia-Sm1999/ajs-homeworks-regex-nicknames#readme",
   "devDependencies": {
     "@babel/cli": "^7.20.7",
     "@babel/core": "^7.20.7",
     "@babel/preset-env": "^7.20.2",
     "babel-jest": "^29.3.1",
-    "eslint": "^8.31.0",
-    "eslint-config-airbnb-base": "^14.2.1",
-    "eslint-plugin-import": "^2.24.1",
+    "eslint": "^8.30.0",
+    "eslint-config-airbnb-base": "^15.0.0",
+    "eslint-plugin-import": "^2.26.0",
     "jest": "^29.3.1"
+  },
+  "dependencies": {
+    "core-js": "^3.26.1"
   }
 }
